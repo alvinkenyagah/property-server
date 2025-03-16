@@ -1,0 +1,4 @@
+MONGODB_URI=mongodb+srv://alvinjtl:duderadical@cluster0.xi8u9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+JWT_SECRET="dude_radical"
+
+
