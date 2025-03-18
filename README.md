@@ -33,5 +33,5 @@
 
 
 ### Note
-- Add mongoDB databae URI in the .env file  required ie `MONGODB_URI=mongodb+srv://username:database_password@cluster0.xi8u9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`
+- Add mongoDB databae URI in the .env file ie `MONGODB_URI=mongodb+srv://username:database_password@cluster0.xi8u9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`
 - For local authentication setup add the following to your .env file `JWT_SECRET="your secret key"`
