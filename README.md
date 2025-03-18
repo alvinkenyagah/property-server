@@ -1,5 +1,3 @@
-# Property-finder API
-
 # AccommodateApp API Endpoints
 
 ## **Auth**
